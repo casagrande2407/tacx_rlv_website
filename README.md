@@ -20,3 +20,5 @@ De website geeft een overzicht van de door mij geproduceerde rlv's, op dit momen
 - Muraires-Grimaud (profiel verbeteren en hernoemen naar FR_Muraires)
 - Soulzmat_Cernay (profiel verbeteren en hernoemen naar FR_GrBallonNorth)
 - US_IndianRocksBch (profiel verbeteren)
+
+Deze video's zijn te koop. Tevens komt er een installatie instructie te vinden om de video's in Tacx Trainer Software 4 (TTS4) aan de gang te krijgen.
